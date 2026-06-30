@@ -38,3 +38,10 @@ Do NOT run as root.
 Disclaimer:
 Provided as-is, free of charge, for Raspberry Pi users. Not affiliated
 with the RVGL team or Raspberry Pi Ltd. Use at your own risk.
+
+## Credits & Upstream Sources
+This installer downloads and configures [RVGL](https://re-volt.io/), a
+freeware cross-platform engine rewrite of Re-Volt, distributed under a
+CC-BY-NC 4.0 (non-commercial) license. This installer script is
+independently authored and MIT-licensed; it is not affiliated with the
+RVGL/Re-Volt development team.
